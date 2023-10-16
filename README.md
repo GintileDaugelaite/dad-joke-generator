@@ -7,7 +7,8 @@ All you need to know in order to use the application easily.
 Prerequisites:
 
 1. The Visual Studio Code app is installed on your computer
-2. Live Server extension is installed on Visual Studio Code. Follow the steps:
+2. Git is installed on your computer
+3. Live Server extension is installed on Visual Studio Code. Follow the steps:
 ![live-server](https://github.com/GintileDaugelaite/dad-joke-generator/assets/98910346/1d06a6c9-4fa5-4001-a8e4-9604fec05c62)
 
 
