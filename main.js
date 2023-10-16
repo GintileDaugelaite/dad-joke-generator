@@ -13,7 +13,7 @@ function getAllJokes() {
     });
     return allJokes;
   } else {
-    console.error("Questions and punchlines have different length");
+    console.error("Questions and punchlines are not of the same number");
   }
 }
 
